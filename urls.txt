@@ -1,0 +1,11 @@
+IdentityServer
+https://localhost:5001
+
+WebApi
+https://localhost:44326
+
+WebApiClient
+https://localhost:44360
+
+WebApp
+https://localhost:44304
